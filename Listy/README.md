@@ -1,4 +1,4 @@
-Zadania na ćwiczenia 9
+**Zadania na ćwiczenia** 
 1. Zaimplementuj zbiór mnogościowy liczb naturalnych korzystając ze
 struktury listy.
 - czy element należy do zbioru
@@ -10,7 +10,6 @@ trzy funkcje:
 - int value(node *tab, int n) – zwracającą wartość elementu o indeksie n,
 - void set(node *&tab, int n, int value) – postawiającą wartość value pod
 indeks n.
-Zadania na ćwiczenia 10
 3. Proszę napisać funkcję scalającą dwie posortowane listy w jedną
 posortowaną listę. Do funkcji należy przekazać wskazania na pierwsze
 elementy obu list, funkcja powinna zwrócić wskazanie do scalonej listy.
